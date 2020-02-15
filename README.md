@@ -1,1 +1,1 @@
-[https://github.com/Olzhas-kaz/rsschool-cv](https://github.com/Olzhas-kaz/rsschool-cv/blob/gh-pages/cv.md)
+[https://Olzhas-kaz.github.io/rsschool-cv/cv](https://Olzhas-kaz.github.io/rsschool-cv/cv)
