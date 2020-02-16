@@ -3,7 +3,7 @@
 # **Olzhas Turarov**  
 ## Automation Engineer  
 **Birth date:**	04.03.1988  
-**Address:**	Kazakhstan, Karaganda, Alikhanova street, 37/3-36  
+**Address:**	Kazakhstan, Karaganda, Alikhanova street, 37/3  
 **Family status:**	Married with two children  
 **Phone number:**	+7 701 450 57 21  
 **E-mail:**	tuolzhas@gmail.com  
