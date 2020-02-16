@@ -18,7 +18,7 @@ Desired salary from $ 2000.
 **LP «KazProm Avtomatika»**, Kazakhstan, Karaganda  
 **Automation Engineer**  
   
-### Responsibilities  
+## Responsibilities  
 -	equipment selection for automatic system;  
 -	design schemes for automatic system;  
 -	code development for automatic system;  
