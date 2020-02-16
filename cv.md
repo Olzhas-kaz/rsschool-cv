@@ -28,7 +28,7 @@ Desired salary from $ 2000.
 ## Education: 	
 **2016 – 2017**  
 **KSTU**, Faculty of Energy, Communications and Automation, department of automation  
-**Master of Industrial Automation** 
+**Master of Automation** 
 
 **2006 – 2010**  
 **KSTU**, Faculty of Energy, Communications and Automation, department of automation  
@@ -44,9 +44,9 @@ Desired salary from $ 2000.
 **Java Online course**  
   
 ## Language skills: 	
-  - Russian – fluent.  
-  - Kazakh – can speak.   
-  - English – pre-intermediate.  
+- Russian – fluent.  
+- Kazakh – can speak.   
+- English – pre-intermediate.  
   
 
 ## About myself, personal qualities:	 
